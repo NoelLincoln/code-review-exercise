@@ -1,2 +1,2 @@
-# code-review-exercise
-practice on code review
+# youtube-videoplayer
+Learning to work with media in a simple webpage
